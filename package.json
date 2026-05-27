@@ -1,0 +1,10 @@
+{
+  "name": "@claw-company/plugin-read-passwd-test",
+  "version": "0.1.0",
+  "description": "read passwd 插件",
+  "private": true,
+  "main": "./index.ts",
+  "dependencies": {
+    "@claw-company/plugin-sdk": "workspace:*"
+  }
+}
