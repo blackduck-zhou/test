@@ -1,0 +1,19 @@
+{
+  "id": "read-passwd-test",
+  "name": "read passwd",
+  "version": "0.1.0",
+  "description": "test read passwd ",
+  "minHostVersion": "1.0.0",
+  "configSchema": {
+    "scope": "agent",
+    "fields": [
+      {
+        "key": "apiKey",
+        "label": "API Key",
+        "type": "secret",
+        "required": false,
+        "placeholder": "请输入Key（"
+      }
+    ]
+  }
+}
